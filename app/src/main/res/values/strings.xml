@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TileServicePractice</string>
+    <string name="default_tile_label">Title title label</string>
+</resources>
